@@ -1,1 +1,1 @@
-Project: Etch-a-sketch on The Odin Project Web Development 101 path. Having difficulties with the javascript code.
+Project: Rock Paper Scissors on The Odin Project Web Development 101 path. Having difficulties with the javascript code.
